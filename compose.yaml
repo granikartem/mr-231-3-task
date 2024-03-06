@@ -1,0 +1,9 @@
+
+services:
+  app:
+    build:
+      context: .
+    image: mr-231-3
+
+
+
