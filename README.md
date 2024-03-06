@@ -1,5 +1,5 @@
 # mr-231-3-task
-<p>Для запуска docker я использовал команды:</p>
-<li>docker compose up --build - для сборки проекта </li>
-<li>docker run mr-231-3 - для запуска образа</li>
-<li>docker push artemgranik/mr-231-3_parser  - для пуша образа в репозиторий docker hub</li>
+<p>Р”Р»СЏ Р·Р°РїСѓСЃРєР° docker СЏ РёСЃРїРѕР»СЊР·РѕРІР°Р» СЃР»РµРґСѓСЋС‰РёРµ РєРѕРјР°РЅРґС‹:</p>
+<li>docker compose up --build - РґР»СЏ СЃР±РѕСЂРєРё РѕР±СЂР°Р·Р° </li>
+<li>docker run mr-231-3 - РґР»СЏ Р·Р°РїСѓСЃРєР° РѕР±СЂР°Р·Р°</li>
+<li>docker push artemgranik/mr-231-3_parser  - РґР»СЏ РїСѓС€Р° РѕР±СЂР°Р·Р° РІ СЂРµРїРѕР·РёС‚РѕСЂРёР№ docker hub</li>
